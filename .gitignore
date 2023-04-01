@@ -1,0 +1,10 @@
+.vscode
+# config/ORBvoc.txt
+**/ORBvoc.txt
+
+**/build
+# /ORB-SLAM3/build
+# /ORB-SLAM3/Thirdparty/DBoW2/build
+# /ORB-SLAM3/Thirdparty/g2o/build
+# /ORB-SLAM3/Thirdparty/Sophus/build
+# 
